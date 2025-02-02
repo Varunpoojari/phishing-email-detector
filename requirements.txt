@@ -1,0 +1,7 @@
+# Core dependencies
+typing
+
+# Future dependencies as we expand the project
+# nltk
+# scikit-learn
+# pandas
